@@ -172,37 +172,6 @@
 
 ---
 
-## `> htop` — GitHub Metrics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sukhmanichhabra&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0&ring_color=a78bfa" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhmanichhabra&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmanichhabra&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
-</div>
-
-<br>
-
----
-
-## `> watch -n 1 git log --graph --contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukhmanichhabra/sukhmanichhabra/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukhmanichhabra/sukhmanichhabra/output/snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/sukhmanichhabra/sukhmanichhabra/output/snake.svg" />
-  </picture>
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
