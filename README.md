@@ -104,7 +104,7 @@
       ⚡ Hosted on <b>Oracle Cloud VMs</b> · Redis · Celery · Real-time food logging via LLM.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎫 Queuegate</h3>
+      <h3 align="center"><a href="https://queuegate.sukhmanichhabra.tech/">🎫 Queuegate</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
